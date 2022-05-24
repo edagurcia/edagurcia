@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/edagurcia" target="blank"><img src="https://img.shields.io/twitter/follow/edagurcia?logo=twitter&style=for-the-badge" alt="edagurcia" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando como [consulto](https://ed-servicios-ti.web.app/)
+- 🔭 Actualmente estoy trabajando como [consultor](https://ed-servicios-ti.web.app/)
 
-- 🌱 Estoy comenzando a aprender **NextJS, GraphQL**
+- 🌱 Quiero aprender **NextJS, GraphQL, React Native**
 
 - 👨‍💻 Algunos datos sobre mi [https://edagurcia.netlify.app/](https://edagurcia.netlify.app/)
 
-- 📝 Quisiera comenzar a escribir un blog [Blog](Blog)
+- 📝 Quisiera comenzar a escribir un blog [Blog](https://codeando-la-web.blogspot.com/)
 
-- 💬 Puedo ayudarte un poco con **react**
+- 💬 Puedo ayudarte un poco con **react, HTML, CSS, MySQL, MongoDB, Firebase**
 
 - 📫 Contactarme a **edagurcia@gmail.com**
 
