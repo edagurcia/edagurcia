@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Edmundo</h1>
-<h3 align="center">Aprendiz de desarrollador fullstack ubicado en Honduras</h3>
+<h3 align="center">Aprendiz de desarrollador fullstack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edagurcia&label=Profile%20views&color=0e75b6&style=flat" alt="edagurcia" /> </p>
 
@@ -7,16 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/edagurcia" target="blank"><img src="https://img.shields.io/twitter/follow/edagurcia?logo=twitter&style=for-the-badge" alt="edagurcia" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando como [consultor](https://ed-servicios-ti.web.app/)
+- 🔭 Actualmente estoy trabajando como [desarrollador]([https://banhcafe.hn](https://www.banhcafe.hn/))
 
-- 🌱 Estoy comenzando a aprender **NextJS, GraphQL**
+- 🔭 También soy [consultor](https://ed-servicios-ti.web.app/)
 
 - 👨‍💻 Algunos datos sobre mi [https://edagurcia.netlify.app/](https://edagurcia.netlify.app/)
 
-- 📝 Quisiera comenzar a escribir un blog [Blog](Blog)
-
-- 💬 Puedo ayudarte un poco con **react**
-
+- 💬 Puedo ayudarte un poco con **react** **nextjs** **react-native**
+ 
 - 📫 Contactarme a **edagurcia@gmail.com**
 
 - 📄 Algunas ideas de aplicaciones [PYME Apps](PYME Apps)
