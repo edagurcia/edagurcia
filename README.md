@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/edagurcia" target="blank"><img src="https://img.shields.io/twitter/follow/edagurcia?logo=twitter&style=for-the-badge" alt="edagurcia" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando como [desarrollador][https://banhcafe.hn](https://www.banhcafe.hn/)
+- 🔭 Actualmente estoy trabajando como desarrollador frontend [https://banhcafe.hn](https://www.banhcafe.hn/)
 
 - 🔭 También soy [consultor](https://ed-servicios-ti.web.app/)
 
