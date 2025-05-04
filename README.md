@@ -9,7 +9,7 @@
 
 - 🔭 Actualmente estoy trabajando como lead frontend developer [https://banhcafe.hn](https://www.banhcafe.hn/)
 
-- 🔭 Portfolio [consultor](https://ed-servicios-ti.web.app/)
+- 🔭 [Portfolio](https://ed-servicios-ti.web.app/)
 
 - 👨‍💻 Algunos datos sobre mi [https://edagurcia.netlify.app/](https://edagurcia.netlify.app/)
 
