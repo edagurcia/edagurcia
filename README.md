@@ -11,8 +11,6 @@
 
 - 🔭 [Portfolio](https://edagurcia.netlify.app/)
 
-- 👨‍💻 Algunos datos sobre mi [portfolio](https://edagurcia.netlify.app/)
-
 - 💬 Puedo ayudarte un poco con **react** **nextjs** **react-native** **expressjs**
  
 - 📫 Contactarme a **edagurcia@gmail.com**
