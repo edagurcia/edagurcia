@@ -10,18 +10,18 @@
 
 <div align="center">
   <p>
-    Un desarrollador apasionado por crear soluciones web y móviles robustas y eficientes. 
-    Actualmente liderando el desarrollo frontend en BanHc@fe.hn.
+    Un desarrollador apasionado por crear soluciones web y móviles robustas y eficientes. Veamos tu proyecto y desarrollemos tu idea.
   </p>
 </div>
 
 ### 🚀 Mi Perfil de un Vistazo
 
-* **Rol Actual:** Lead Frontend Developer en [BanHc@fe](https://www.banhcafe.hn/).
+* **Rol Actual:** Freelance Developer
 * **Portafolio:** Explora mis proyectos en [edagurcia.netlify.app](https://edagurcia.netlify.app/).
 * **Ideas de Aplicaciones:** Revisa mis conceptos en [PYME Apps](PYME Apps).
 * **Habilidades Clave:** Puedo ayudarte y tengo experiencia con: **React**, **Next.js**, **React Native**, y **Express.js**.
 * **Contacto:** ¿Hablemos de código o de tu próximo proyecto? Contáctame a **edagurcia@gmail.com**.
+* * **Antiguo trabajo:** Lead Frontend Developer en [BanHc@fe](https://www.banhcafe.hn/).
 
 ---
 
