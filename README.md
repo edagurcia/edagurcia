@@ -4,6 +4,7 @@
   # ¡Hola! Soy Edmundo 👋
   
   ### Desarrollador Full-Stack (JavaScript / TypeScript)
+  ### Especialista en react y Next
 </div>
 
 ---
@@ -16,7 +17,7 @@
 
 ### 🚀 Mi Perfil de un Vistazo
 
-* **Rol Actual:** Freelance Developer
+* **Rol Actual:** Web Developer
 * **Portafolio:** Explora mis proyectos en [edagurcia.netlify.app](https://edagurcia.netlify.app/).
 * **Ideas de Aplicaciones:** Revisa mis conceptos en [PYME Apps](PYME Apps).
 * **Habilidades Clave:** Puedo ayudarte y tengo experiencia con: **React**, **Next.js**, **React Native**, y **Express.js**.
