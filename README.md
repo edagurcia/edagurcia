@@ -4,7 +4,7 @@
   # ¡Hola! Soy Edmundo 👋
   
   ### Desarrollador Full-Stack (JavaScript / TypeScript)
-  ### Especialista en react y Next
+  ### Especialista en React y Next
 </div>
 
 ---
